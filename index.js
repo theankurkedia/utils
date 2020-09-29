@@ -1,3 +1,3 @@
-const a = require("./map");
-
-console.log(a);
+// const a  = require("./map");
+// const b = require("./forEach");
+// const c = require("./filter");
